@@ -62,7 +62,7 @@ cd blackeye
 bash blackeye.sh
 ```
 
-![alt text](https://raw.githubusercontent.com/EricksonAtHome/blackeye/main/img/hiws2.png)
+![1](https://raw.githubusercontent.com/EricksonAtHome/blackeye/main/img/hiws2.png)
 
 ### Donate! @EricksonHolding
 Donate And Support:
@@ -71,3 +71,4 @@ BTC: bc1qmz5qmhyfzrm9hn2gnus85exhry64a8zekyzjuu
 -----------------------------------------------------------------------------------------------------------------------------
 LTC: ltc1qk4cuts4w8202tr2efun4c380n6nsq4eafxlg4k
 -----------------------------------------------------------------------------------------------------------------------------
+[1]
